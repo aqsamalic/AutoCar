@@ -17,7 +17,7 @@ const page = () => {
       <State />
       <Packages/>
       <TrustedClient/> 
-      {/* < Contact/> */}
+      < Contact/>
       <Footer/>
 
 
